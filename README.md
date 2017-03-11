@@ -79,3 +79,4 @@ public class ExampleTest {
 | [TestNG](http://testng.org/doc/index.html) | Test Suite Management     |
 
 
+# selenium-maven-allure1
